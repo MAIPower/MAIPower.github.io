@@ -11,7 +11,7 @@
   School of Data Science and Engineering (DaSE)  
   Shanghai, China  
 
-- **B.S. in Software Engineering** (2020-2024)  
+- **B.S. in Software Engineering** (2021-2025)  
   Guizhou University  
   Guizhou, China  
 ---
