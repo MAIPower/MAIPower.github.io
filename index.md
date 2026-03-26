@@ -26,7 +26,7 @@ Guizhou, China
 
 **EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems**  
 Q Liang, C Wang, **P Xia**, Y Zeng, X Liu, X Lu, A Zhou  
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026, Oral)*
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026, Oral, CCF-A)*
 
 ---
 
