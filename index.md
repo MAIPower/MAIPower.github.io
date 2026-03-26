@@ -1,18 +1,43 @@
-# Peiwei Xia (夏培玮)
+# Hi, I'm Peiwei Xia (夏培玮)
 
-**Data Science Researcher | Master's Candidate**  
-华东师范大学 数据科学与工程学院  
+**Master's Candidate at East China Normal University**  
+**Research Interests:** Recommender Systems, Graph Learning, Educational Data Mining
+
+I am currently a master's student in **Big Data Engineering and Technology** at the **School of Data Science and Engineering, East China Normal University (ECNU)**.  
+My research mainly focuses on **recommender systems**, **graph-based learning**, and **educational recommendation**.
 
 ---
 
-## 📚 Education
-- **M.S. in Big Data Engineering and Technology** (Expected 2027)  
-  East China Normal University (ECNU)  
-  School of Data Science and Engineering (DaSE)  
-  Shanghai, China  
+## 🎓 Education
 
-- **B.S. in Software Engineering** (2021-2025)  
-  Guizhou University  
-  Guizhou, China  
+**East China Normal University (ECNU)**  
+*M.S. in Big Data Engineering and Technology*  
+2025 – Expected 2027  
+Shanghai, China  
+
+**Guizhou University**  
+*B.S. in Software Engineering*  
+2021 – 2025  
+Guizhou, China  
+
 ---
-> Last Updated: July 26, 2025
+
+## 📝 Publication
+
+**EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems**  
+Q Liang, C Wang, **P Xia**, Y Zeng, X Liu, X Lu, A Zhou  
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026, Oral)*
+
+---
+
+## 🔍 Research Interests
+
+- Recommender Systems  
+- Graph Neural Networks / Graph Learning  
+- Educational Data Mining  
+- Social and Cognitive Modeling  
+- Personalized Recommendation  
+
+---
+
+> Last Updated: March 26, 2026
