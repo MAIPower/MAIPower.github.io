@@ -5,7 +5,7 @@
 
 ### Master's Candidate @ East China Normal University
 
-**Recommender Systems · Graph Learning · Educational Data Mining**
+**Recommender Systems · Educational Data Mining**
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Recommender%20Systems-4F46E5?style=flat-square" />
